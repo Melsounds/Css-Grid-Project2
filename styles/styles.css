@@ -285,4 +285,8 @@ body{
             height: 500px;
             
         }
+        .grid-item:nth-of-type(3){
+            height: 550px;
+            
+        }
     }                                                                                    
