@@ -286,7 +286,6 @@ body{
             
         }
         .grid-item:nth-of-type(3){
-            height: 650px;
-            
+        height: 650px;
         }
     }                                                                                    
